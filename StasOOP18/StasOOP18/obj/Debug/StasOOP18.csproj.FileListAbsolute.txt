@@ -1,0 +1,10 @@
+D:\VS PROJECTS\StasOOP18\StasOOP18\bin\Debug\StasOOP18.exe.config
+D:\VS PROJECTS\StasOOP18\StasOOP18\bin\Debug\StasOOP18.exe
+D:\VS PROJECTS\StasOOP18\StasOOP18\bin\Debug\StasOOP18.pdb
+D:\VS PROJECTS\StasOOP18\StasOOP18\obj\Debug\StasOOP18.csproj.AssemblyReference.cache
+D:\VS PROJECTS\StasOOP18\StasOOP18\obj\Debug\StasOOP18.Form1.resources
+D:\VS PROJECTS\StasOOP18\StasOOP18\obj\Debug\StasOOP18.Properties.Resources.resources
+D:\VS PROJECTS\StasOOP18\StasOOP18\obj\Debug\StasOOP18.csproj.GenerateResource.cache
+D:\VS PROJECTS\StasOOP18\StasOOP18\obj\Debug\StasOOP18.csproj.CoreCompileInputs.cache
+D:\VS PROJECTS\StasOOP18\StasOOP18\obj\Debug\StasOOP18.exe
+D:\VS PROJECTS\StasOOP18\StasOOP18\obj\Debug\StasOOP18.pdb
